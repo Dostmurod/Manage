@@ -10,6 +10,7 @@
 
 /* header start */
 header {
+    margin-top: 7px;
     width: 100%;
     padding: 5px;
     display: flex;
